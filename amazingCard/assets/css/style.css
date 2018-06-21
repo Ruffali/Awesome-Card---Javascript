@@ -1,0 +1,877 @@
+body {
+  background-image: url("http://www.openwallpaper.info/wp-content/uploads/2018/04/free-wallpaper-for-computer-awesome-backgrounds-google-search-fonts-amp-pages-pinterest-of-free-wallpaper-for-computer.png"); }
+
+#main .container .row {
+  position: relative; }
+  #main .container .row .curvedRight {
+    opacity: 0; }
+    #main .container .row .curvedRight img {
+      width: 20%;
+      position: absolute;
+      left: 57%;
+      top: 371%;
+      transform: rotate(-34deg);
+      z-index: -1; }
+  #main .container .row .curvedLeft {
+    opacity: 0; }
+    #main .container .row .curvedLeft img {
+      width: 20%;
+      position: absolute;
+      left: 19%;
+      top: -18%;
+      transform: rotate(152deg); }
+  #main .container .row .col-md-12 {
+    padding: 10% 0 0 40%; }
+    #main .container .row .col-md-12 .myCard, #main .container .row .col-md-12 .myCard2, #main .container .row .col-md-12 .myCard3, #main .container .row .col-md-12 .myCard4, #main .container .row .col-md-12 .myCard5, #main .container .row .col-md-12 .myCard6, #main .container .row .col-md-12 .myCard7, #main .container .row .col-md-12 .myCard8, #main .container .row .col-md-12 .myCard9, #main .container .row .col-md-12 .myCard10, #main .container .row .col-md-12 .myCard11, #main .container .row .col-md-12 .myCard12 {
+      position: absolute;
+      margin: 0 auto;
+      width: 16%;
+      height: 400px;
+      border-radius: 2%;
+      cursor: pointer;
+      transition: all 0.8s ease; }
+      #main .container .row .col-md-12 .myCard:hover, #main .container .row .col-md-12 .myCard2:hover, #main .container .row .col-md-12 .myCard3:hover, #main .container .row .col-md-12 .myCard4:hover, #main .container .row .col-md-12 .myCard5:hover, #main .container .row .col-md-12 .myCard6:hover, #main .container .row .col-md-12 .myCard7:hover, #main .container .row .col-md-12 .myCard8:hover, #main .container .row .col-md-12 .myCard9:hover, #main .container .row .col-md-12 .myCard10:hover, #main .container .row .col-md-12 .myCard11:hover, #main .container .row .col-md-12 .myCard12:hover {
+        border: 2px solid wheat;
+        box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.651), 0 5px 15px 0 rgba(0, 0, 0, 0.521); }
+    #main .container .row .col-md-12 .myCard11 {
+      background: linear-gradient(to top, #1D1D1D, #76787c); }
+      #main .container .row .col-md-12 .myCard11 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        margin: 6% 0% 5% 20%; }
+      #main .container .row .col-md-12 .myCard11 .nick {
+        position: relative;
+        width: 100%; }
+        #main .container .row .col-md-12 .myCard11 .nick .ali {
+          padding-left: 10%; }
+          #main .container .row .col-md-12 .myCard11 .nick .ali h1 {
+            font-size: 1.6em;
+            padding-left: 21%;
+            margin-top: -8%;
+            font-family: 'Alfa Slab One', cursive;
+            letter-spacing: 0.8ch;
+            text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 3px 0 #afb6b6, 0 0 5px rgba(0, 0, 0, 0.05); }
+        #main .container .row .col-md-12 .myCard11 .nick .ruff {
+          padding-left: 20%; }
+          #main .container .row .col-md-12 .myCard11 .nick .ruff h1 {
+            color: black;
+            font-family: 'Shrikhand', cursive;
+            text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 3px 0 #afb6b6, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard11 .jobName {
+        padding-left: 1%;
+        padding-top: 5%; }
+        #main .container .row .col-md-12 .myCard11 .jobName h1 {
+          font-size: 1em;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 3px 0 #afb6b6, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard11 .content {
+        margin-top: 5%;
+        padding: 5%;
+        font-size: 1ch; }
+        #main .container .row .col-md-12 .myCard11 .content p {
+          color: #9b9b9b;
+          padding-left: 9%; }
+      #main .container .row .col-md-12 .myCard11 .phone {
+        color: #9b9b9b; }
+        #main .container .row .col-md-12 .myCard11 .phone i {
+          width: 30px;
+          height: 28px;
+          line-height: 30px;
+          text-align: center;
+          background: #802D2A;
+          color: #fff;
+          margin-left: 15%;
+          border-radius: 50%;
+          font-size: 14px;
+          padding: 0; }
+        #main .container .row .col-md-12 .myCard11 .phone span {
+          font-size: 1ch;
+          padding-left: 5%;
+          color: #fff; }
+    #main .container .row .col-md-12 .myCard10 {
+      background: linear-gradient(to top, #323B4A, #8792a0); }
+      #main .container .row .col-md-12 .myCard10 .header {
+        margin-left: 6%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard10 .header h1 {
+          color: #0e0e4e;
+          font-size: 1.6ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard10 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 5% 20%; }
+      #main .container .row .col-md-12 .myCard10 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard10 .experienceContent .firstExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard10 .experienceContent i {
+          position: absolute;
+          font-size: 0.4em;
+          top: 5%;
+          left: 5%;
+          color: #06060c; }
+        #main .container .row .col-md-12 .myCard10 .experienceContent .dotted {
+          display: inline-block;
+          padding-left: 12%;
+          font-size: 1.4ch;
+          color: #0e0e4e; }
+        #main .container .row .col-md-12 .myCard10 .experienceContent span {
+          color: #06060c;
+          padding-left: 14%;
+          font-size: 1.1ch; }
+        #main .container .row .col-md-12 .myCard10 .experienceContent .smallH3 {
+          color: #0e0e4e;
+          font-size: 1.1em;
+          padding-left: 13%; }
+        #main .container .row .col-md-12 .myCard10 .experienceContent ul {
+          margin-left: -11%; }
+          #main .container .row .col-md-12 .myCard10 .experienceContent ul li {
+            font-size: 0.8em;
+            color: #686883; }
+    #main .container .row .col-md-12 .myCard9 {
+      background: linear-gradient(to top, #0b4d6e, #8ecff0); }
+      #main .container .row .col-md-12 .myCard9 .header {
+        margin-left: 6%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard9 .header h1 {
+          color: #0e0e4e;
+          font-size: 1.6ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard9 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard9 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard9 .experienceContent .secondExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard9 .experienceContent i {
+          position: absolute;
+          font-size: 0.4em;
+          top: 5%;
+          left: 5%;
+          color: #06060c; }
+        #main .container .row .col-md-12 .myCard9 .experienceContent .dotted {
+          display: inline-block;
+          padding-left: 12%;
+          font-size: 1.4ch;
+          color: #0e0e4e; }
+        #main .container .row .col-md-12 .myCard9 .experienceContent span {
+          color: #06060c;
+          padding-left: 14%;
+          font-size: 1.1ch; }
+        #main .container .row .col-md-12 .myCard9 .experienceContent .smallH3 {
+          color: #0e0e4e;
+          font-size: 1.1em;
+          padding-left: 13%; }
+        #main .container .row .col-md-12 .myCard9 .experienceContent ul {
+          margin-left: -11%; }
+          #main .container .row .col-md-12 .myCard9 .experienceContent ul li {
+            font-size: 0.8em;
+            color: #092c3d; }
+    #main .container .row .col-md-12 .myCard8 {
+      background: linear-gradient(to top, #7e0118, #f57a91); }
+      #main .container .row .col-md-12 .myCard8 .header {
+        margin-left: 6%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard8 .header h1 {
+          color: #770218;
+          font-size: 1.6ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard8 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard8 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard8 .experienceContent .thirdExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard8 .experienceContent i {
+          position: absolute;
+          font-size: 0.4em;
+          top: 5%;
+          left: 5%;
+          color: #770218; }
+        #main .container .row .col-md-12 .myCard8 .experienceContent .dotted {
+          display: inline-block;
+          padding-left: 12%;
+          font-size: 1.4ch;
+          color: #500412; }
+        #main .container .row .col-md-12 .myCard8 .experienceContent span {
+          color: #530513;
+          padding-left: 14%;
+          font-size: 1.1ch; }
+        #main .container .row .col-md-12 .myCard8 .experienceContent .smallH3 {
+          color: #500412;
+          font-size: 1.1em;
+          padding-left: 13%; }
+        #main .container .row .col-md-12 .myCard8 .experienceContent ul {
+          margin-left: -11%; }
+          #main .container .row .col-md-12 .myCard8 .experienceContent ul li {
+            font-size: 0.8em;
+            color: #27050b; }
+    #main .container .row .col-md-12 .myCard7 {
+      background: linear-gradient(to top right, #01995D, #4E54A4, #8C3C8B, #F04225, #F5C522); }
+      #main .container .row .col-md-12 .myCard7 .header {
+        margin-left: 24%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard7 .header h1 {
+          color: #581d1d;
+          font-size: 1.6ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard7 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard7 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard7 .experienceContent .thirdExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard7 .experienceContent .dotted {
+          padding-left: 10%;
+          font-size: 1.9ch;
+          color: white;
+          padding-top: 8%;
+          padding-bottom: 20%; }
+        #main .container .row .col-md-12 .myCard7 .experienceContent span {
+          color: white;
+          padding-left: 19%;
+          font-size: 1.1ch; }
+        #main .container .row .col-md-12 .myCard7 .experienceContent .smallH3 {
+          color: white;
+          font-size: 1.1em;
+          padding-left: 17%;
+          padding-top: 20%; }
+    #main .container .row .col-md-12 .myCard6 {
+      background: linear-gradient(to top, #04355a, #5fa9e2); }
+      #main .container .row .col-md-12 .myCard6 .header {
+        margin-left: 24%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard6 .header h1 {
+          color: #581d1d;
+          font-size: 1.6ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard6 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard6 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard6 .experienceContent .thirdExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard6 .experienceContent .dotted {
+          padding-left: 6%;
+          font-size: 1.7ch;
+          color: white;
+          padding-top: 8%;
+          padding-bottom: 20%; }
+        #main .container .row .col-md-12 .myCard6 .experienceContent span {
+          color: white;
+          padding-left: 19%;
+          font-size: 1.1ch; }
+        #main .container .row .col-md-12 .myCard6 .experienceContent .smallH3 {
+          color: white;
+          font-size: 1.1em;
+          padding-left: 26%;
+          padding-top: 20%; }
+        #main .container .row .col-md-12 .myCard6 .experienceContent ul {
+          margin-left: -11%; }
+          #main .container .row .col-md-12 .myCard6 .experienceContent ul li {
+            font-size: 0.8em;
+            color: white; }
+    #main .container .row .col-md-12 .myCard5 {
+      background: linear-gradient(to top, #ffa703, #f3dcb0); }
+      #main .container .row .col-md-12 .myCard5 .header {
+        margin-left: 32%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard5 .header h1 {
+          color: #581d1d;
+          font-size: 1.6ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard5 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard5 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard5 .experienceContent .thirdExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard5 .experienceContent .dotted {
+          padding-left: 18%;
+          font-size: 1.4ch;
+          color: black;
+          padding-top: 2%;
+          margin-bottom: -3%; }
+        #main .container .row .col-md-12 .myCard5 .experienceContent span {
+          color: white;
+          padding-left: 19%;
+          font-size: 1.1ch; }
+        #main .container .row .col-md-12 .myCard5 .experienceContent .smallH3 {
+          color: white;
+          font-size: 1.1em;
+          padding-left: 26%;
+          padding-top: 20%; }
+        #main .container .row .col-md-12 .myCard5 .experienceContent ul {
+          margin-left: -11%;
+          margin-bottom: 4%; }
+          #main .container .row .col-md-12 .myCard5 .experienceContent ul li {
+            font-size: 0.8em;
+            color: white;
+            margin-left: 7%; }
+    #main .container .row .col-md-12 .myCard4 {
+      background: linear-gradient(to top, #3232fa, #c1c1ff); }
+      #main .container .row .col-md-12 .myCard4 .header {
+        margin-left: 3%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard4 .header h1 {
+          color: #581d1d;
+          font-size: 1.5ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard4 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard4 .experienceContent ul {
+        margin-left: -7%; }
+        #main .container .row .col-md-12 .myCard4 .experienceContent ul li {
+          font-size: 0.8em;
+          color: white;
+          list-style: none;
+          display: inline-flex; }
+          #main .container .row .col-md-12 .myCard4 .experienceContent ul li i {
+            margin-left: 3%; }
+    #main .container .row .col-md-12 .myCard3 {
+      background: linear-gradient(to top left, #120606, #78920E, #E8A60A); }
+      #main .container .row .col-md-12 .myCard3 .header {
+        margin-left: 27%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard3 .header h1 {
+          color: #581d1d;
+          font-size: 1.5ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard3 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard3 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard3 .experienceContent .thirdExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard3 .experienceContent .dotted {
+          padding-left: 6%;
+          font-size: 1.2ch;
+          color: white;
+          padding-top: 8%;
+          margin-bottom: -5%; }
+    #main .container .row .col-md-12 .myCard2 {
+      background: linear-gradient(to top, #3f045a, #d75fe2); }
+      #main .container .row .col-md-12 .myCard2 .header {
+        margin-left: 24%;
+        margin-top: 5%; }
+        #main .container .row .col-md-12 .myCard2 .header h1 {
+          color: #581d1d;
+          font-size: 1.6ch;
+          font-family: 'Alfa Slab One', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #main .container .row .col-md-12 .myCard2 img {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        width: 61%;
+        height: 128px;
+        margin: 6% 0% 0% 20%; }
+      #main .container .row .col-md-12 .myCard2 .experienceContent {
+        padding-left: 3%; }
+        #main .container .row .col-md-12 .myCard2 .experienceContent .thirdExperience {
+          position: relative;
+          margin-top: 2%; }
+        #main .container .row .col-md-12 .myCard2 .experienceContent .dotted {
+          padding-left: 6%;
+          font-size: 1.3ch;
+          color: white;
+          margin-bottom: 0%; }
+        #main .container .row .col-md-12 .myCard2 .experienceContent ul {
+          margin-left: -11%;
+          margin-bottom: 2%; }
+          #main .container .row .col-md-12 .myCard2 .experienceContent ul li {
+            font-size: 0.6em;
+            color: white; }
+
+#mainView .container-fluid .row .col-md-12 {
+  padding-left: 5%; }
+  #mainView .container-fluid .row .col-md-12 .myCard, #mainView .container-fluid .row .col-md-12 .myCard2, #mainView .container-fluid .row .col-md-12 .myCard3, #mainView .container-fluid .row .col-md-12 .myCard4, #mainView .container-fluid .row .col-md-12 .myCard5, #mainView .container-fluid .row .col-md-12 .myCard6, #mainView .container-fluid .row .col-md-12 .myCard7, #mainView .container-fluid .row .col-md-12 .myCard8, #mainView .container-fluid .row .col-md-12 .myCard9, #mainView .container-fluid .row .col-md-12 .myCard10, #mainView .container-fluid .row .col-md-12 .myCard11, #mainView .container-fluid .row .col-md-12 .myCard12 {
+    position: absolute;
+    margin: 0 auto;
+    width: 16%;
+    height: 400px;
+    border-radius: 2%;
+    cursor: pointer;
+    transition: all 0.8s ease; }
+    #mainView .container-fluid .row .col-md-12 .myCard:hover, #mainView .container-fluid .row .col-md-12 .myCard2:hover, #mainView .container-fluid .row .col-md-12 .myCard3:hover, #mainView .container-fluid .row .col-md-12 .myCard4:hover, #mainView .container-fluid .row .col-md-12 .myCard5:hover, #mainView .container-fluid .row .col-md-12 .myCard6:hover, #mainView .container-fluid .row .col-md-12 .myCard7:hover, #mainView .container-fluid .row .col-md-12 .myCard8:hover, #mainView .container-fluid .row .col-md-12 .myCard9:hover, #mainView .container-fluid .row .col-md-12 .myCard10:hover, #mainView .container-fluid .row .col-md-12 .myCard11:hover, #mainView .container-fluid .row .col-md-12 .myCard12:hover {
+      border: 1px solid wheat;
+      box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.651), 0 5px 15px 0 rgba(0, 0, 0, 0.521); }
+  #mainView .container-fluid .row .col-md-12 .myCard11 {
+    background: linear-gradient(to top, #1D1D1D, #76787c); }
+    #mainView .container-fluid .row .col-md-12 .myCard11 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      margin: 6% 0% 1% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard11 .nick {
+      position: relative;
+      width: 100%; }
+      #mainView .container-fluid .row .col-md-12 .myCard11 .nick .ali {
+        padding-left: 10%; }
+        #mainView .container-fluid .row .col-md-12 .myCard11 .nick .ali h1 {
+          font-size: 1.6em;
+          padding-left: 26%;
+          margin-top: -8%;
+          font-family: 'Alfa Slab One', cursive;
+          letter-spacing: 0.8ch;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 3px 0 #afb6b6, 0 0 5px rgba(0, 0, 0, 0.05); }
+      #mainView .container-fluid .row .col-md-12 .myCard11 .nick .ruff {
+        padding-left: 27%; }
+        #mainView .container-fluid .row .col-md-12 .myCard11 .nick .ruff h1 {
+          color: black;
+          font-family: 'Shrikhand', cursive;
+          text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 3px 0 #afb6b6, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard11 .jobName {
+      padding-left: 1%;
+      padding-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard11 .jobName h1 {
+        font-size: 1em;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 3px 0 #afb6b6, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard11 .content {
+      margin-top: -1%;
+      padding: 5%;
+      font-size: 1ch; }
+      #mainView .container-fluid .row .col-md-12 .myCard11 .content p {
+        color: #9b9b9b;
+        padding-left: 9%; }
+    #mainView .container-fluid .row .col-md-12 .myCard11 .phone {
+      color: #9b9b9b; }
+      #mainView .container-fluid .row .col-md-12 .myCard11 .phone i {
+        width: 30px;
+        height: 28px;
+        line-height: 30px;
+        text-align: center;
+        background: #802D2A;
+        color: #fff;
+        margin-left: 15%;
+        border-radius: 50%;
+        font-size: 14px;
+        padding: 0; }
+      #mainView .container-fluid .row .col-md-12 .myCard11 .phone span {
+        font-size: 1ch;
+        padding-left: 5%;
+        color: #fff; }
+  #mainView .container-fluid .row .col-md-12 .myCard10 {
+    background: linear-gradient(to top, #323B4A, #8792a0); }
+    #mainView .container-fluid .row .col-md-12 .myCard10 .header {
+      margin-left: 18%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard10 .header h1 {
+        color: #0e0e4e;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard10 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 5% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent {
+      padding-left: 3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent .firstExperience {
+        position: relative;
+        margin-top: 2%; }
+      #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent i {
+        position: absolute;
+        font-size: 0.4em;
+        top: 5%;
+        left: 5%;
+        color: #06060c; }
+      #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent .dotted {
+        display: inline-block;
+        padding-left: 12%;
+        font-size: 1.4ch;
+        color: #0e0e4e; }
+      #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent span {
+        color: #06060c;
+        padding-left: 14%;
+        font-size: 1.1ch; }
+      #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent .smallH3 {
+        color: #0e0e4e;
+        font-size: 1.1em;
+        padding-left: 13%; }
+      #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent ul {
+        margin-left: -8%; }
+        #mainView .container-fluid .row .col-md-12 .myCard10 .experienceContent ul li {
+          font-size: 0.8em;
+          color: #686883; }
+  #mainView .container-fluid .row .col-md-12 .myCard9 {
+    background: linear-gradient(to top, #0b4d6e, #8ecff0); }
+    #mainView .container-fluid .row .col-md-12 .myCard9 .header {
+      margin-left: 18%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard9 .header h1 {
+        color: #0e0e4e;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard9 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent {
+      padding-left: 3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent .secondExperience {
+        position: relative;
+        margin-top: 2%; }
+      #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent i {
+        position: absolute;
+        font-size: 0.4em;
+        top: 5%;
+        left: 5%;
+        color: #06060c; }
+      #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent .dotted {
+        display: inline-block;
+        padding-left: 12%;
+        font-size: 1.4ch;
+        color: #0e0e4e; }
+      #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent span {
+        color: #06060c;
+        padding-left: 14%;
+        font-size: 1.1ch; }
+      #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent .smallH3 {
+        color: #0e0e4e;
+        font-size: 1.1em;
+        padding-left: 13%; }
+      #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent ul {
+        margin-left: -8%; }
+        #mainView .container-fluid .row .col-md-12 .myCard9 .experienceContent ul li {
+          font-size: 0.8em;
+          color: #092c3d; }
+  #mainView .container-fluid .row .col-md-12 .myCard8 {
+    background: linear-gradient(to top, #7e0118, #f57a91); }
+    #mainView .container-fluid .row .col-md-12 .myCard8 .header {
+      margin-left: 18%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard8 .header h1 {
+        color: #770218;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard8 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent {
+      padding-left: 3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent .thirdExperience {
+        position: relative;
+        margin-top: 11%; }
+      #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent i {
+        position: absolute;
+        font-size: 0.4em;
+        top: 5%;
+        left: 5%;
+        color: #770218; }
+      #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent .dotted {
+        display: inline-block;
+        padding-left: 12%;
+        font-size: 1.4ch;
+        color: #500412; }
+      #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent span {
+        color: #530513;
+        padding-left: 14%;
+        font-size: 1.1ch; }
+      #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent .smallH3 {
+        color: #500412;
+        font-size: 1.1em;
+        padding-left: 13%; }
+      #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent ul {
+        margin-left: -8%; }
+        #mainView .container-fluid .row .col-md-12 .myCard8 .experienceContent ul li {
+          font-size: 0.8em;
+          color: #27050b; }
+  #mainView .container-fluid .row .col-md-12 .myCard7 {
+    background: linear-gradient(to top right, #01995D, #4E54A4, #8C3C8B, #F04225, #F5C522); }
+    #mainView .container-fluid .row .col-md-12 .myCard7 .header {
+      margin-left: 32%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard7 .header h1 {
+        color: #581d1d;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard7 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard7 .experienceContent {
+      padding-left: 3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard7 .experienceContent .thirdExperience {
+        position: relative;
+        margin-top: 2%; }
+      #mainView .container-fluid .row .col-md-12 .myCard7 .experienceContent .dotted {
+        padding-left: 19%;
+        font-size: 1.9ch;
+        color: white;
+        padding-top: 8%;
+        padding-bottom: 20%; }
+      #mainView .container-fluid .row .col-md-12 .myCard7 .experienceContent span {
+        color: white;
+        padding-left: 28%;
+        font-size: 1.1ch; }
+      #mainView .container-fluid .row .col-md-12 .myCard7 .experienceContent .smallH3 {
+        color: white;
+        font-size: 1.1em;
+        padding-left: 25%;
+        padding-top: 20%; }
+  #mainView .container-fluid .row .col-md-12 .myCard6 {
+    background: linear-gradient(to top, #04355a, #5fa9e2); }
+    #mainView .container-fluid .row .col-md-12 .myCard6 .header {
+      margin-left: 32%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard6 .header h1 {
+        color: #581d1d;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard6 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard6 .experienceContent {
+      padding-left: 3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard6 .experienceContent .thirdExperience {
+        position: relative;
+        margin-top: 2%; }
+      #mainView .container-fluid .row .col-md-12 .myCard6 .experienceContent .dotted {
+        padding-left: 19%;
+        font-size: 1.7ch;
+        color: white;
+        padding-top: 8%;
+        padding-bottom: 20%; }
+      #mainView .container-fluid .row .col-md-12 .myCard6 .experienceContent span {
+        color: white;
+        padding-left: 28%;
+        font-size: 1.1ch; }
+      #mainView .container-fluid .row .col-md-12 .myCard6 .experienceContent .smallH3 {
+        color: white;
+        font-size: 1.1em;
+        padding-left: 32%;
+        padding-top: 20%; }
+      #mainView .container-fluid .row .col-md-12 .myCard6 .experienceContent ul {
+        margin-left: -5%; }
+        #mainView .container-fluid .row .col-md-12 .myCard6 .experienceContent ul li {
+          font-size: 0.8em;
+          color: white; }
+  #mainView .container-fluid .row .col-md-12 .myCard5 {
+    background: linear-gradient(to top, #ffa703, #f3dcb0); }
+    #mainView .container-fluid .row .col-md-12 .myCard5 .header {
+      margin-left: 36%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard5 .header h1 {
+        color: #581d1d;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard5 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard5 .experienceContent {
+      padding-left: 3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard5 .experienceContent .thirdExperience {
+        position: relative;
+        margin-top: 2%; }
+      #mainView .container-fluid .row .col-md-12 .myCard5 .experienceContent .dotted {
+        padding-left: 10%;
+        font-size: 1.4ch;
+        color: black;
+        padding-top: 2%;
+        margin-bottom: -3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard5 .experienceContent span {
+        color: white;
+        padding-left: 10%;
+        font-size: 1.1ch; }
+      #mainView .container-fluid .row .col-md-12 .myCard5 .experienceContent .smallH3 {
+        color: white;
+        font-size: 1.1em;
+        padding-left: 26%;
+        padding-top: 20%; }
+      #mainView .container-fluid .row .col-md-12 .myCard5 .experienceContent ul {
+        margin-left: -11%;
+        margin-bottom: 4%; }
+        #mainView .container-fluid .row .col-md-12 .myCard5 .experienceContent ul li {
+          font-size: 0.8em;
+          color: white;
+          margin-left: 5%; }
+  #mainView .container-fluid .row .col-md-12 .myCard4 {
+    background: linear-gradient(to top, #3232fa, #c1c1ff); }
+    #mainView .container-fluid .row .col-md-12 .myCard4 .header {
+      margin-left: 13%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard4 .header h1 {
+        color: #581d1d;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard4 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard4 .experienceContent ul {
+      margin-left: 4%; }
+      #mainView .container-fluid .row .col-md-12 .myCard4 .experienceContent ul li {
+        font-size: 0.8em;
+        color: white;
+        list-style: none;
+        display: inline-flex; }
+        #mainView .container-fluid .row .col-md-12 .myCard4 .experienceContent ul li i {
+          margin-left: 3%; }
+  #mainView .container-fluid .row .col-md-12 .myCard3 {
+    background: linear-gradient(to top left, #120606, #78920E, #E8A60A); }
+    #mainView .container-fluid .row .col-md-12 .myCard3 .header {
+      margin-left: 34%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard3 .header h1 {
+        color: #581d1d;
+        font-size: 1.5ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard3 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 6% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard3 .experienceContent {
+      padding-left: 3%; }
+      #mainView .container-fluid .row .col-md-12 .myCard3 .experienceContent .firstExperience {
+        padding-left: 12%; }
+      #mainView .container-fluid .row .col-md-12 .myCard3 .experienceContent .dotted {
+        padding-left: 6%;
+        font-size: 1.2ch;
+        color: white;
+        padding-top: 8%;
+        margin-bottom: -5%; }
+  #mainView .container-fluid .row .col-md-12 .myCard2 {
+    background: linear-gradient(to top, #3f045a, #d75fe2); }
+    #mainView .container-fluid .row .col-md-12 .myCard2 .header {
+      margin-left: 32%;
+      margin-top: 5%; }
+      #mainView .container-fluid .row .col-md-12 .myCard2 .header h1 {
+        color: #581d1d;
+        font-size: 1.6ch;
+        font-family: 'Alfa Slab One', cursive;
+        text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainView .container-fluid .row .col-md-12 .myCard2 img {
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      width: 61%;
+      height: 128px;
+      margin: 2% 0% 0% 20%; }
+    #mainView .container-fluid .row .col-md-12 .myCard2 .experienceContent {
+      padding-left: 8%; }
+      #mainView .container-fluid .row .col-md-12 .myCard2 .experienceContent .thirdExperience {
+        position: relative;
+        margin-top: 2%; }
+      #mainView .container-fluid .row .col-md-12 .myCard2 .experienceContent .dotted {
+        padding-left: 6%;
+        font-size: 1.3ch;
+        color: white;
+        margin-bottom: 0%; }
+      #mainView .container-fluid .row .col-md-12 .myCard2 .experienceContent ul {
+        margin-left: -11%;
+        margin-bottom: 2%; }
+        #mainView .container-fluid .row .col-md-12 .myCard2 .experienceContent ul li {
+          font-size: 0.6em;
+          color: white; }
+
+#mainExplane .container-fluid .row .col-md-12 {
+  padding-left: 5%; }
+  #mainExplane .container-fluid .row .col-md-12 .myCard11 {
+    position: absolute;
+    right: 3%;
+    width: 16%;
+    height: 400px;
+    border-radius: 2%;
+    cursor: pointer;
+    transition: all 0.8s ease; }
+    #mainExplane .container-fluid .row .col-md-12 .myCard11:hover {
+      border: 1px solid wheat;
+      box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.651), 0 5px 15px 0 rgba(0, 0, 0, 0.521); }
+  #mainExplane .container-fluid .row .col-md-12 .myCard11 {
+    background: linear-gradient(to top, #1D1D1D, #76787c);
+    height: 400px; }
+    #mainExplane .container-fluid .row .col-md-12 .myCard11 .header h1 {
+      text-transform: uppercase;
+      font-size: 2.7ch;
+      padding-left: 6%;
+      padding-top: 10%;
+      color: black;
+      font-family: 'Shrikhand', cursive;
+      text-shadow: 0 1px 0 #c9cfce, 0 2px 0 #bcc2c2, 0 3px 0 #afb6b6, 0 0 5px rgba(0, 0, 0, 0.05); }
+    #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressEnter h1, #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressClose h1 {
+      padding-top: 5%;
+      font-size: 1.5ch;
+      padding-left: 5%;
+      color: white;
+      font-family: 'Alfa Slab One', cursive; }
+    #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressEnter ul li, #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressClose ul li {
+      font-size: 1.2ch;
+      color: white; }
+    #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressEnter button, #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressClose button {
+      margin-left: 8%;
+      width: 42%;
+      font-size: 1ch;
+      height: 40px;
+      background: rgba(1, 0, 5, 0.3);
+      text-align: center;
+      border-radius: 40px;
+      color: #9b9b9b;
+      text-transform: uppercase;
+      text-decoration: none;
+      font-family: 'Kaushan Script', cursive;
+      letter-spacing: 2px;
+      transition: 5s;
+      overflow: hidden;
+      margin-top: -6%; }
+      #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressEnter button:hover, #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressClose button:hover {
+        color: #fff;
+        text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 25px rgba(255, 255, 255, 0.5), 0 0 35px rgba(255, 255, 255, 0.5); }
+    #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressClose {
+      padding-top: 3%; }
+      #mainExplane .container-fluid .row .col-md-12 .myCard11 .pressClose button {
+        width: 45%; }
+
+/*# sourceMappingURL=style.css.map */
